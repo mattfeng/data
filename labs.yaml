@@ -1,0 +1,24 @@
+# Labs
+# scrape: https://www.dana-farber.org/research/departments-centers-and-labs/lab-websites/
+- pi: Janet Thornton
+  url: https://www.ebi.ac.uk/research/thornton
+  about: Computational biology of proteins
+- pi: Bruce Tidor
+  url: https://groups.csail.mit.edu/tidor/index.php
+- pi: K. Dane Wittrup
+  url: https://kdw-lab.mit.edu/members/
+- pi: Jean Zhao
+  url: https://zhaolab.dana-farber.org/
+  about: Understanding the diverse signaling pathways and networks regulating cellular processes in normal and cancer cells.
+- pi: Paul Blainey
+  url: http://blainey.mit.edu/
+- pi: Baochun Zhang
+  url: https://zhanglab.dfci.harvard.edu/
+
+# look at
+- pi: Tyler Jacks
+  url: https://jacks-lab.mit.edu/
+  about: Genetic basis of cancer
+- pi: Roger Kamm
+  url: http://web.mit.edu/meche/mb/index.html
+  about: In vitro modeling of Alzheimer's
