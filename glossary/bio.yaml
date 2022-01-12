@@ -9,3 +9,14 @@
   abrv: RNAi
 - term: fistula
   defn: an abnormal connection between two body parts
+- term: hypomorphic
+  defn: describes a mutation that cuases a partial loss of gene function
+- term: pharmacogenetics
+  abrv: PGx
+  defn: the field of research studying how a person's genes affect how he or she responds to medications
+- term: absorption, distribution, metabolism, and excretion
+  abrv: ADME
+- term: stricture
+  defn: an abnormal narrowing of a canal or duct in the body
+- term: abscess
+  defn: a swollen area within body tissue, containing an accumulation of pus
