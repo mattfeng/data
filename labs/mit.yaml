@@ -1,0 +1,18 @@
+org: Massachusetts Institute of Technology
+labs:
+  - name: Blainey Lab
+    PI: Paul Blainey
+  - name: Micro/Nanfluidic BioMEMS Group
+    PI: Jongyoon Han
+    projects:
+      - Microfluidic engineering of electrokinetic concentration and separation devices
+      - Bioprocess engineering for AAV production/CHO cell culture via microfluidic cell retention system
+      - Cell therapy (CAR-T, MSC) engineering
+  - name: Griffith Lab
+    PI: Linda Griffith
+    projects:
+      - Functional biomaterials and scaffolds
+          - Regenerative connective tissue engineering
+          - Influencing epithelial morphogenesis and function, particularly liver cells, endometrial cells, and gut organoids
+      - Integration of systems biology and tissue engineering for drug development
+      - 3D in vitro tissue engineered models of microreactors for drug development
