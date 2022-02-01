@@ -1,0 +1,31 @@
+glycine:
+  ola: G
+  tla: Gly
+  pka_side:
+  class: hydrophobic
+  other_class: achiral
+
+alanine:
+  ola: A
+  tla: Ala
+  pka_side:
+  class: hydrophobic
+  other_class:
+
+proline:
+valine:
+leucine:
+isoleucine:
+methionine:
+tryptophan:
+phenylalanine:
+
+serine:
+threonine:
+tyrosine:
+asparagine:
+glutamine:
+cysteine:
+
+glutamic acid:
+
