@@ -20,3 +20,15 @@
   defn: an abnormal narrowing of a canal or duct in the body
 - term: abscess
   defn: a swollen area within body tissue, containing an accumulation of pus
+- term: human leukocyte antigen
+  abrv: HLA
+  defn: the human version of the major histocompatibility complex (MHC)
+- term: linkage disequilibrium
+- term: haplotype
+  defn: A set of DNA variations (alleles), or polymorphisms, that tend to be inherited together.
+- term: vaccine escape
+  defn: The phenomenon where a virus mutate and escape a vaccine because the body has produced a strong enough immune response to tamp down the infection but not strong enough to keep the mutated viruses from spreading.
+- term: epitope
+  defn: The part of an antigen molecule to which an antibody attaches itself. A T cell epitope is an epitope recognized by T cells.
+- term: MIRA
+  defn: Multiplex Identification of T-cell Receptor Antigen Specificity
