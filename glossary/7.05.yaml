@@ -6,4 +6,6 @@
   lec: 2
 - term: zwitterion
   lec: 2
-
+- term: isozyme
+  defn: enzymes that differ in amino acid sequence but catalyze the same chemical reaction
+  lec: 3
