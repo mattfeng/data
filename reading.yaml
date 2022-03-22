@@ -1,6 +1,9 @@
 - abt: TATA box binding protein
   url: https://pdb101.rcsb.org/motm/67
   ref: 7.05 L1
+- abt: Early B Cell Development
+  url: https://www.youtube.com/watch?v=t2AO1CMLV9A
+  ref: 6.S977 immunology
 - abt: 20.320 another course 20 class
   url: https://ocw.mit.edu/courses/biological-engineering/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/
   ref: 20.330 lec 1
@@ -19,3 +22,5 @@
 - abt: inverted Lessig model
   url: http://ethanz.wpengine.com/2015/10/19/insurrectionist-civics-in-the-age-of-mistrust/
   ref: HTGAA
+- abt: NEUROG3
+  ref: 6.S977 lec 4
