@@ -25,3 +25,9 @@
 - name: Prata
   type: serif
   url: https://fonts.google.com/specimen/Prata
+- name: Pragmatica
+  type: sans-serif
+  url: https://www.paratype.com/fonts/pt/pragmatica
+- name: Harriet Display
+  type: serif
+  url: https://okaytype.com/typefaces/harriet
