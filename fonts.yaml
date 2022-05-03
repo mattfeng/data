@@ -31,3 +31,9 @@
 - name: Harriet Display
   type: serif
   url: https://okaytype.com/typefaces/harriet
+- name: Neue Haas Unica
+  type: sans-serif
+  url: https://www.monotype.com/fonts/neue-haas-unica
+- name: Neue Haas Grotesk
+  type: sans-serif
+  url: https://commercialtype.com/catalog/neue_haas_grotesk
