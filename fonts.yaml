@@ -4,3 +4,36 @@
 - name: Lausanne
   type: sans-serif
   url: https://www.typewolf.com/lausanne
+- name: Canela
+  type: serif
+  url: https://commercialtype.com/catalog/canela
+- name: Berlingske Serif
+  type: serif
+  url: https://playtype.com/typefaces/berlingske-serif/
+- name: Graphik Bold
+  type: sans-serif
+  url: https://commercialtype.com/catalog/graphik/bold
+- name: Roobert
+  type: sans-serif
+  url: https://displaay.net/typeface/roobert-collection/roobert/
+- name: Kazimir
+  type: serif
+  url: https://fonts.adobe.com/fonts/kazimir
+- name: Neue Machina
+  type: monospace
+  url: https://www.behance.net/gallery/78376829/Neue-Machina-Free-Typeface
+- name: Prata
+  type: serif
+  url: https://fonts.google.com/specimen/Prata
+- name: Pragmatica
+  type: sans-serif
+  url: https://www.paratype.com/fonts/pt/pragmatica
+- name: Harriet Display
+  type: serif
+  url: https://okaytype.com/typefaces/harriet
+- name: Neue Haas Unica
+  type: sans-serif
+  url: https://www.monotype.com/fonts/neue-haas-unica
+- name: Neue Haas Grotesk
+  type: sans-serif
+  url: https://commercialtype.com/catalog/neue_haas_grotesk

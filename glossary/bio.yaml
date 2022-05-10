@@ -32,3 +32,9 @@
   defn: The part of an antigen molecule to which an antibody attaches itself. A T cell epitope is an epitope recognized by T cells.
 - term: MIRA
   defn: Multiplex Identification of T-cell Receptor Antigen Specificity
+- term: antisense oligonucleotide
+  abrv: ASO
+- term: constitutive gene
+  defn: a gene that is transcribed at a relatively constant level regardless of the cell environmental conditions
+- term: excipient
+  defn: an inactive substance that serves as the vehicle or medium for a drug or other active substance. Examples include polyethylene glycol, gelatin, starch, and sucrose.

@@ -1,0 +1,3 @@
+- name: Coot
+  url: https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/
+  desc: crystallography electron density viewer
