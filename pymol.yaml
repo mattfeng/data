@@ -1,0 +1,2 @@
+- command: set float_labels, on
+  desc: set labels in front always
